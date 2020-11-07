@@ -17,3 +17,5 @@ adding more content
 2014 git.training
 
 please fork this repository and the nissue pull request
+
+more changes from my feature branch too
