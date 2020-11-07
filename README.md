@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 adding more content
 
 2014 git.training
+
+please fork this repository and the nissue pull request
