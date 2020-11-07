@@ -12,3 +12,5 @@ i think this is the last one
 Sample website with plenty of files for demos
 
 adding more content
+
+2014 git.training
